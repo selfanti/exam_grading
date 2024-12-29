@@ -1,0 +1,6 @@
+[submodule "exams"]
+	path = exams
+	url = https://github.com/selfanti/my_exams.git
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = https://github.com/LearningInfiniTensor/learning-cxx.git
